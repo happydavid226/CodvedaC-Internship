@@ -1,0 +1,9 @@
+bubble : 13527
+selection : 4614
+insertion : 3081
+merge : 35
+Quick : 13
+heap : 19
+
+
+
